@@ -15,5 +15,4 @@ fun main() {
         surnameUser = "Сидорова"
         println("$surnameUser $nameUser $patronymicUser $ageUser лет")
     }
-
 }
