@@ -8,4 +8,5 @@ fun main() {
         val result = multiplier * i
         println("$multiplier * $i = $result")
     }
+
 }
